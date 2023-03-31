@@ -13,7 +13,7 @@
 </br>
 
 **Project Link** - `https://delightful-field-0271a2000.3.azurestaticapps.net/` </br>
-**Project Demo Video Link** - 
+**Project Demo Video Link** - `https://youtu.be/bJHkMecwaLM`
 
 </br></br>
 
