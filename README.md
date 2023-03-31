@@ -9,7 +9,7 @@
 
 ## **`Azure technologies`** used For this Project
 1. Static Web Apps
-2. Azure Health bot
+2. Health bot
 </br>
 
 **Project Link** - `https://delightful-field-0271a2000.3.azurestaticapps.net/` </br>
