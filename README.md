@@ -12,8 +12,8 @@
 2. Health bot
 </br>
 
-**Project Link** - `https://delightful-field-0271a2000.3.azurestaticapps.net/` </br>
-**Project Demo Video Link** - `https://youtu.be/bJHkMecwaLM`
+**Project Link** - `https://nihalsheikh.github.io/microsoft.future.ready.talent/` </br>
+**Project Demo Video Link** - `NA`
 
 </br></br>
 
